@@ -3,6 +3,6 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    //
-    //Jonathan's Push
-}
+    std::cout << "Jon \n";
+
+}>git config --global user.name "Jonathan Glasgow"
