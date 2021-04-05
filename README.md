@@ -1,2 +1,2 @@
-# Bianca
-COT4210
+# COT4210
+COT4210 Project
