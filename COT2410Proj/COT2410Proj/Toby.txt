@@ -1,0 +1,110 @@
+who are you
+<You recognize this man from the news.  Tobi Park, famous inventor.  He recently sent a robot to Mars by himself.> Oh, you know who I am, I know that look.  I’m Tobi Park!  I did the Mars thing.  You definitely recognize me.  Right?
+
+yo!
+yo.
+
+hi
+yo yo
+
+nervous
+I’m not nervous at all.  Logically, I have no reason to be.  I’m simply always like this.  As for last night, I left before anything crazy happened.  I left early, at the same time as James Sinclair, in fact.
+
+notepad
+Oh, this old thing?  There’s nothing too important in here, just math equations and invention doodles.  I showed it to James Sinclair last night!  You know, the guy who’s on TV all the time.  He loved it, I suppose great minds think alike.
+
+write 
+Oh, this old thing?  There’s nothing too important in here, just math equations and invention doodles.  I showed it to James Sinclair last night!  You know, the guy who’s on TV all the time.  He loved it, I suppose great minds think alike.
+
+see notepad
+Oh, there’s really nothing in here.  But sure, go nuts. <He hands you the notepad.  Flipping through it, you see several pages of math equations, as well as sketches of machines that have yet to be built.  Going through recent pages, most of his notes have turned to rambling about ‘clearing obstacles from the path,’ this particular phrase shows up often.>
+
+phrase clearing path
+Oh, a lot of trees go down on the roads near where I live.  It’s been a big problem lately with how much rain we’ve been getting, so I’ve been thinking of solutions.
+
+clearing path
+Oh, a lot of trees go down on the roads near where I live.  It’s been a big problem lately with how much rain we’ve been getting, so I’ve been thinking of solutions.
+
+what brings here
+I was the guest of honor!  I met Mr. and Mrs. Fairsley at an airport a few weeks back.  I didn’t catch what his wife was saying, but Ben said he was planning a party, and that I should attend!  Presumably, to try and tie me down with some sort of contract designing products for his company.
+
+contract
+Of course.  Space tech knowledge doesn’t translate one-to-one to medical tech knowledge, but I’m not about to decline that sort of invitation.
+
+how did you know deceased person
+I didn’t know them too well, to be honest.
+
+what was evelyn
+Never heard of her.
+
+did you see evelyn
+Never heard of her.
+
+what think of evelyn
+Never heard of her.
+
+what was hughes
+I met Mr. Hughes for the first time last night.  We talked about Mars, he was really excited to learn about the work I do.  I like the name of his company.
+
+did you see hughes 
+I met Mr. Hughes for the first time last night.  We talked about Mars, he was really excited to learn about the work I do.  I like the name of his company.
+
+what think of hughes
+I met Mr. Hughes for the first time last night.  We talked about Mars, he was really excited to learn about the work I do.  I like the name of his company.
+
+what was sinclair
+Sinclair is on TV so often I forget he’s a real person sometimes.  Speaking with him in person was like watching a TV show, he just went on for like an hour about things he’s done.  I felt dumber for having listened to him for so long, but at least I didn’t have to say much.
+
+did you see sinclair
+Sinclair is on TV so often I forget he’s a real person sometimes.  Speaking with him in person was like watching a TV show, he just went on for like an hour about things he’s done.  I felt dumber for having listened to him for so long, but at least I didn’t have to say much.
+
+what think of sinclair
+Sinclair is on TV so often I forget he’s a real person sometimes.  Speaking with him in person was like watching a TV show, he just went on for like an hour about things he’s done.  I felt dumber for having listened to him for so long, but at least I didn’t have to say much.
+
+what think of ben
+People seem to think Mr. Fairsley was a pretty rough-around-the-edges type of guy, but I don’t get it.  They need to see where he’s coming from.  He’s worked hard all his life, he’s earned the right to have the occasional bad day.  From what I saw, he spent most of the night schmoozing and drinking.
+
+what was ben
+People seem to think Mr. Fairsley was a pretty rough-around-the-edges type of guy, but I don’t get it.  They need to see where he’s coming from.  He’s worked hard all his life, he’s earned the right to have the occasional bad day.  From what I saw, he spent most of the night schmoozing and drinking.
+
+what think of mae
+I’ll be honest, I don’t think Mrs. Fairsley actually went to the hospital last night.  She’s probably cheating on her husband, if you ask me.
+
+what was mae
+I’ll be honest, I don’t think Mrs. Fairsley actually went to the hospital last night.  She’s probably cheating on her husband, if you ask me.
+
+your job
+Recently, you may have heard that I built a robot and launched it to Mars using my own funds.  Right now, I’ve started talks with several space agencies to figure out which one I’ll be helping to design and build a Mars base.  We’ve still got to work out about a million kinks, so I’ve got time to decide.
+
+what do for living
+Recently, you may have heard that I built a robot and launched it to Mars using my own funds.  Right now, I’ve started talks with several space agencies to figure out which one I’ll be helping to design and build a Mars base.  We’ve still got to work out about a million kinks, so I’ve got time to decide.
+
+your occupation
+Recently, you may have heard that I built a robot and launched it to Mars using my own funds.  Right now, I’ve started talks with several space agencies to figure out which one I’ll be helping to design and build a Mars base.  We’ve still got to work out about a million kinks, so I’ve got time to decide.
+
+where were you last night
+Ah, well, let me check. <Tobi pulls a notepad from his pocket, flips back a couple of pages, reads for a moment.> Last night, I went to the party, and left shortly after dessert.  I felt like I’d fulfilled my obligation to attend.
+
+what you last night
+Ah, well, let me check. <Tobi pulls a notepad from his pocket, flips back a couple of pages, reads for a moment.> Last night, I went to the party, and left shortly after dessert.  I felt like I’d fulfilled my obligation to attend.
+
+dessert
+Mr. Hughes was kind enough to bake everyone their own personal cakes for dessert.  <Tobi pulls out his notepad>  Mine was chocolate, Mr. Fairsley’s was vanilla.  When he went for his wife’s dessert as well, I was shocked.  Ben is normally such a saint!  Not to mention, it was disrespectful to Hughes himself.
+
+when see victim
+Right as I left the party.  He waved me and Sinclair goodbye when we left.
+
+free time
+I happen to enjoy parties, as it were!  I also enjoy getting together with other engineers and brainstorming.  <Tobi pulls a small notepad from his pocket> I write a lot of things down! I am a tinkerer. I am a thinker. I like to think about stuff.
+
+did get along with victim
+I like to think that if Mr. Fairsley had more time here, we would’ve become good friends.  I admire his drive, and he can hold his booze.
+
+did get along with ben
+I like to think that if Mr. Fairsley had more time here, we would’ve become good friends.  I admire his drive, and he can hold his booze.
+
+
+
+
+
+
