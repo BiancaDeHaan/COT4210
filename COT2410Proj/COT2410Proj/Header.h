@@ -72,7 +72,3 @@ public:
     Character* findCharacter(string name);
     TextAdventure() {}
 };
-
-class Item {
-
-};

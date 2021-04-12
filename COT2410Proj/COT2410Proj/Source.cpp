@@ -235,7 +235,7 @@ int main() {
             cout << "You are inspecting something" << endl;
         }
         else if (accuse(userTokens)) {
-            Character* suspect;
+            Character* suspect = nullptr;
             if(userTokens.size() >= 1)
                 suspect = textAdventure.findCharacter(userTokens[1]);
             if (suspect == nullptr) {
