@@ -10,6 +10,10 @@ void TextAdventure::loadAlex() {
     //Default response
     alexHughes.setDefaultResponse("I’m sorry?  You’re gonna have to speak up, friend.  I didn’t understand what you said there.");
     alexHughes.setIntroduction("Hello, inspector.  A pleasure to meet you, I am Alex Hughes, an old friend of the owner of this manor.  And you are?");
+    alexHughes.setArrestResponse("Surely, it the neighbor driven mad by jealousy?\n"
+        "Tired of playing second fiddle all his life, he poisoned Ben’s cake and made sure he ate it by initiating a competition on purpose!\n\n"
+        "Incorrect!This man is a gentle giantand wouldn’t hurt a fly, how dare you!\n"
+        "You got the wrong guy!\n");
     //Adding all of the different variants of questions
     fstream newfile;
     vector<string> questionTokens;

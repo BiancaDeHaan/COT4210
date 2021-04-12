@@ -10,6 +10,10 @@ void TextAdventure::loadToby() {
     //Default response
     tobiPark.setDefaultResponse("I’m sorry, I didn’t understand what you said there, could you run that by me again please?i");
     tobiPark.setIntroduction("Hey, I'm Tobi Park. You must have heard of me.");
+    tobiPark.setArrestResponse("It was the jealous secret lover!  He poisoned Mae Fairsley’s dessert at the start of the night, \n"
+        "but Ben wound up scarfing the poisoned cake down in a stress-induced eating contest with Alex Hughes.\n"
+        "You got the right guy!The culprit has been caught!\n"
+        "Congratulations!:DDDDD");
     //Adding all of the different variants of questions
     fstream newfile;
     vector<string> questionTokens;

@@ -10,8 +10,10 @@ const string introduction = "(There was a party at Fairsley manor last night.  \
 const string description = "There are four suspects in the room; Evelyn Garcia, Tobi Park, Alex Hughes, and James Sinclair. \n";
 const string instructions = "\nUse question words to begin talking to the suspects, for example, ask Alex. \n"
 "Afterwards, when talking to a suspect, you can ask them questions, such as where they were at the time of the murder.\n"
-"You can also inspect items around the room.";
+"You can also inspect items around the room.\n";
 vector<string> questionWords = { "talk to", "talk", "ask", "question", "interrogate" };
+vector<string> examineWords = { "examine", "look at", "look", "inspect" };
+vector<string> accuseWords = { "accuse", "arrest" };
 
 
 //Implemented methods
@@ -125,13 +127,21 @@ bool talkTo(vector<string> tokens) {
 
 bool examine(vector<string> tokens) {
     //logic for determining if the command was to examine an item
-    return true;
+    for (int i = 0; i < questionWords.size(); i++) {
+        if (contains(tokens, questionWords[i]))
+            return true;
+    }
+    return false;
 }
 
 
 bool accuse(vector<string> tokens) {
     //logic for determining if the command was to accuse someone
-    return true;
+    for (int i = 0; i < questionWords.size(); i++) {
+        if (contains(tokens, accuseWords[i]))
+            return true;
+    }
+    return false;
 }
 
 int main() {
@@ -150,7 +160,10 @@ int main() {
     textAdventure.loadEvelyn();
     textAdventure.loadJames();
 
-
+    //TODO
+    //Add examine items
+    //Add accuse functionality
+    //Add more exit/return/go back commands other than exit
     //Input loop
     string userInput = "";
     while (userInput.compare("exit") != 0) {
@@ -218,9 +231,27 @@ int main() {
             }
 
         }
+        else if (examine(userTokens)) {
+            cout << "You are inspecting something" << endl;
+        }
+        else if (accuse(userTokens)) {
+            Character* suspect;
+            if(userTokens.size() >= 1)
+                suspect = textAdventure.findCharacter(userTokens[1]);
+            if (suspect == nullptr) {
+                cout << "Who are you trying to accuse? I didn't catch that, inspector." << endl;
+                continue;
+            }
 
-        //examine objects in the room
-        //"examine x"
+            cout << suspect->getArrestResponse() << endl;
+            break;
+
+
+        }
+        else {
+            cout << "Inspector, what are you trying to do?" << endl;
+            cout << "Maybe it would be helpful to format what you are trying to do, such as \"talk to x\" or \"examine x\"." << endl << endl;
+        }
 
 
         //accuse 

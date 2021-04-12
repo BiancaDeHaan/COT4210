@@ -10,6 +10,11 @@ void TextAdventure::loadEvelyn() {
     //Default response
     evelynGarcia.setDefaultResponse("Hang on, what’d you say ? I didn’t understand you.");
     evelynGarcia.setIntroduction("You've probably never heard of me, but I'm Evelyn Garcia. I am- was- a maid.");
+    evelynGarcia.setArrestResponse("It must have been the maid, right?  It’s always the maid.  \n"
+        "She was probably up to no good, you know how maids are.  Dastardly things.  She was quitting!\n"
+        "Probably her guilty conscience from all the poisoning.\n\n"
+        "Not even close!\n"
+        "You got the wrong guy!");
     //Adding all of the different variants of questions
     fstream newfile;
     vector<string> questionTokens;

@@ -10,6 +10,8 @@ void TextAdventure::loadJames() {
     //Default response
     jamesSinclair.setDefaultResponse("You’re going to have to repeat that for me, darling.  I didn’t catch a word of it.");
     jamesSinclair.setIntroduction("You're speaking to James Sinclair, remember the name.");
+    jamesSinclair.setArrestResponse("Blackmail!  Intrigue!  Dialogue!  I’m not reading all that.  Maybe you should have!\n"
+        "You got the wrong guy, dear!");
     //Adding all of the different variants of questions
     fstream newfile;
     vector<string> questionTokens;

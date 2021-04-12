@@ -27,11 +27,14 @@ private:
     string defaultResponse;
     string name;
     bool isQuestion(question_t question, vector<string> tokens);
+    string arrestResponse;
 
 
 public:
     void setIntroduction(string introduction) { this->introduction = introduction; }
     string getIntroduction() { return introduction; }
+    void setArrestResponse(string response) { arrestResponse = response; }
+    string getArrestResponse() { return arrestResponse; }
     Character() {}
     Character(vector<string> aliases, string name) {
         this->aliases = aliases;
@@ -68,4 +71,8 @@ public:
     void addCharacter(Character character) { charactersInGame.push_back(character); }
     Character* findCharacter(string name);
     TextAdventure() {}
+};
+
+class Item {
+
 };
