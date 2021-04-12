@@ -191,6 +191,7 @@ int main() {
             }
 
             string secondUserInput = "";
+            cout << endl << talkingTo.getIntroduction() << endl;
 
             while (secondUserInput.compare("exit") != 0) {
                 cout << "You are currently talking to " << talkingTo.getName() << endl;
@@ -200,6 +201,7 @@ int main() {
 
                 if (secondUserInput.compare("exit") == 0)
                     break;
+
                 //remmove ?
                 secondUserInput.erase(remove(secondUserInput.begin(), secondUserInput.end(), '?'), secondUserInput.end());
 

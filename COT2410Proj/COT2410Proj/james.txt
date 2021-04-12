@@ -1,0 +1,191 @@
+hi
+Why, hello.
+
+hello
+Why, hello.
+
+who are you
+Your eyes are bearing witness to the current endeavors of James Sinclair, heir to the Sinclair family fortune and owner of many things.  I’m sure you’ve heard of me.
+
+i have heard
+Good!  Then you know that my time is highly valuable, so ask me something else.  Quickly!
+
+i have not heard
+My, my!  Someone’s been living under a rock, hmm?
+
+where you last night
+Ah, yes!  I should have a rock-solid alibi.  I left the party first along with Mr. Tobi Park, you see.  If he died after the party as your police men say, there’s no way it could have been me.
+
+where you time of murder
+Ah, yes!  I should have a rock-solid alibi.  I left the party first along with Mr. Tobi Park, you see.  If he died after the party as your police men say, there’s no way it could have been me.
+
+what were you doing
+Ah, yes!  I should have a rock-solid alibi.  I left the party first along with Mr. Tobi Park, you see.  If he died after the party as your police men say, there’s no way it could have been me.
+
+where were you
+Ah, yes!  I should have a rock-solid alibi.  I left the party first along with Mr. Tobi Park, you see.  If he died after the party as your police men say, there’s no way it could have been me.
+
+poison
+Oh, it was poison?  No matter.  I can assure you that I had many eyes on me the entire night, and certainly wouldn’t have done anything to Mr. Fairsley, as our companies work together often and his partnership makes my father and I a lot of money.  Oop, I mean, made me a lot of money.
+
+you nervous
+Oh, my sweet, Summer child.  Have you ever put a lot of work into something, only for it to fall to pieces before your very eyes?   There were very important people at this party, making very important deals, and this little investigation is costing me at least one of them!  Not to mention, whoever murdered poor little old Ben Fairsley could be after me next!
+
+deal
+I doubt me telling you this will change anything, but I was in talks with Mister Hughes about a large purchase to help him get the competitive edge on Fairsley’s company.  After a few drinks, we came to an agreement.  We were supposed to meet today, but now this investigation is giving him time to think!  Plus, now that Fairsley’s dead, he doesn’t need the edge.  You’ve really cost me a lot of potential money with this stunt, I hope you’re happy.
+
+what brings you here
+As I’m sure you have heard, sometimes it’s hard to be as rich and famous as I am.  The Sinclair family way of doing business values cooperation above all, and was here last night to strengthen current bonds and to make new ones.  I came here to work!  You see, it’s not all sunshine and cruise ships.  Just, mostly.
+
+why you here
+As I’m sure you have heard, sometimes it’s hard to be as rich and famous as I am.  The Sinclair family way of doing business values cooperation above all, and was here last night to strengthen current bonds and to make new ones.  I came here to work!  You see, it’s not all sunshine and cruise ships.  Just, mostly.
+
+your job
+Hmph.  Let me ask you, sir:  What is YOUR job?  Protect?  Serve?  That’s right, you’re supposed to be protecting and serving me!  There was a murder, and whoever did it is probably coming for me next!
+
+your occupation
+Hmph.  Let me ask you, sir:  What is YOUR job?  Protect?  Serve?  That’s right, you’re supposed to be protecting and serving me!  There was a murder, and whoever did it is probably coming for me next!
+
+your living
+Hmph.  Let me ask you, sir:  What is YOUR job?  Protect?  Serve?  That’s right, you’re supposed to be protecting and serving me!  There was a murder, and whoever did it is probably coming for me next!
+
+next
+Why WOULDN’T I be next?  A handsome, successful businessman who’s universally loved:  Anyone in this room could want me dead.  Whoever did this could be after my riches, or it could be a crazed fan, jealous of my incredible looks!  Think about it!  My name would be all over the news worldwide!...  I…  You know what, that wouldn’t be so bad after all.
+
+you know ben
+Old Mr. Fairsley and I did not get along very well.  He was a brutally stubborn negotiator, and he doesn’t take the Sinclair family seriously at all.  He simply invited me to this party to maintain public relations with our company, and I gladly accepted the opportunity.  We did get more closely acquainted at dinner, though, as I was seated right next to him.  Lovely man!  Really likes his cake.
+
+you know deceased
+Old Mr. Fairsley and I did not get along very well.  He was a brutally stubborn negotiator, and he doesn’t take the Sinclair family seriously at all.  He simply invited me to this party to maintain public relations with our company, and I gladly accepted the opportunity.  We did get more closely acquainted at dinner, though, as I was seated right next to him.  Lovely man!  Really likes his cake.
+
+you know fairsley
+Ah, yes!  I should have a rock-solid alibi.  I left the party first along with Mr. Tobi Park, you see.  If he died after the party as your police men say, there’s no way it could have been me.
+
+cake
+Well, Mr. Hughes brought everyone in attendance their own personal cake to enjoy after dinner!   A delightful gesture from a good neighbor.  
+Mrs. Fairsley, the saint that she is, had to leave for some emergency at her hospital before the party even really got started!  Our dearly departed, however, couldn’t control himself at dinner and ate hers as well.  The boar nearly drove poor Tobi Park to tears!
+
+tears
+Oh, absolute waterworks.  He hid it well, but I have an eye for these things.  Just the sight of Ben Fairsley doing something so selfish seemed to have brought a tear to the man’s eye!  What a good man.
+
+you see evelyn
+You say she’s the maid of this place?  Well, she certainly did a bang-up job on this one.  The place is still a mess!  I’ve never met an Evelyn Garcia, though.  My apologies.
+
+you see maid
+You say she’s the maid of this place?  Well, she certainly did a bang-up job on this one.  The place is still a mess!  I’ve never met an Evelyn Garcia, though.  My apologies.
+
+you see garcia
+You say she’s the maid of this place?  Well, she certainly did a bang-up job on this one.  The place is still a mess!  I’ve never met an Evelyn Garcia, though.  My apologies.
+
+know garcia
+You say she’s the maid of this place?  Well, she certainly did a bang-up job on this one.  The place is still a mess!  I’ve never met an Evelyn Garcia, though.  My apologies.
+
+know evelyn
+You say she’s the maid of this place?  Well, she certainly did a bang-up job on this one.  The place is still a mess!  I’ve never met an Evelyn Garcia, though.  My apologies.
+
+know maid
+You say she’s the maid of this place?  Well, she certainly did a bang-up job on this one.  The place is still a mess!  I’ve never met an Evelyn Garcia, though.  My apologies.
+
+know alex
+Ah yes, Mr. Hughes.  \nWhy are you giving me a look?  All Fairsley did was invite me to a party to save face with my company, that doesn’t make us friends.  Oh, and that doesn’t make me a murderer.  Come on!
+
+know hughes
+Ah yes, Mr. Hughes.  \nWhy are you giving me a look?  All Fairsley did was invite me to a party to save face with my company, that doesn’t make us friends.  Oh, and that doesn’t make me a murderer.  Come on!
+
+see hughes
+Ah yes, Mr. Hughes.  \nWhy are you giving me a look?  All Fairsley did was invite me to a party to save face with my company, that doesn’t make us friends.  Oh, and that doesn’t make me a murderer.  Come on!
+
+see alex
+Ah yes, Mr. Hughes. \nWhy are you giving me a look?  All Fairsley did was invite me to a party to save face with my company, that doesn’t make us friends.  Oh, and that doesn’t make me a murderer.  Come on!
+
+see tobi
+Mr. Park, the man who put a robot on Mars all by himself!  Truly an impressive mind, we have a lot in common.  He seems to have made a heel-turn from space into pharmaceuticals recently, it’s probably what landed him his seat at the table.  He seemed very concerned over Mrs. Fairsley’s absence, and was furious when old Ben started eating her cake at dessert.
+
+see park
+Mr. Park, the man who put a robot on Mars all by himself!  Truly an impressive mind, we have a lot in common.  He seems to have made a heel-turn from space into pharmaceuticals recently, it’s probably what landed him his seat at the table.  He seemed very concerned over Mrs. Fairsley’s absence, and was furious when old Ben started eating her cake at dessert.
+
+know tobi
+Mr. Park, the man who put a robot on Mars all by himself!  Truly an impressive mind, we have a lot in common.  He seems to have made a heel-turn from space into pharmaceuticals recently, it’s probably what landed him his seat at the table.  He seemed very concerned over Mrs. Fairsley’s absence, and was furious when old Ben started eating her cake at dessert.
+
+know park
+Mr. Park, the man who put a robot on Mars all by himself!  Truly an impressive mind, we have a lot in common.  He seems to have made a heel-turn from space into pharmaceuticals recently, it’s probably what landed him his seat at the table.  He seemed very concerned over Mrs. Fairsley’s absence, and was furious when old Ben started eating her cake at dessert.
+
+know ben
+Fairsley, that old soul!  And body!  Tell me again, are you sure he didn’t simply fall over and pass of old age? \nEither way, I was seated next to him at dinner and we had a delightful conversation.  I’ll say this:  The man really enjoys his cake!
+
+know deceased
+Fairsley, that old soul!  And body!  Tell me again, are you sure he didn’t simply fall over and pass of old age? \nEither way, I was seated next to him at dinner and we had a delightful conversation.  I’ll say this:  The man really enjoys his cake!
+
+see ben
+Fairsley, that old soul!  And body!  Tell me again, are you sure he didn’t simply fall over and pass of old age? \nEither way, I was seated next to him at dinner and we had a delightful conversation.  I’ll say this:  The man really enjoys his cake!
+
+see deceased
+Fairsley, that old soul!  And body!  Tell me again, are you sure he didn’t simply fall over and pass of old age? \nEither way, I was seated next to him at dinner and we had a delightful conversation.  I’ll say this:  The man really enjoys his cake!
+
+see mr fairsley
+Fairsley, that old soul!  And body!  Tell me again, are you sure he didn’t simply fall over and pass of old age? \nEither way, I was seated next to him at dinner and we had a delightful conversation.  I’ll say this:  The man really enjoys his cake!
+
+see mr. fairsley
+Fairsley, that old soul!  And body!  Tell me again, are you sure he didn’t simply fall over and pass of old age? \nEither way, I was seated next to him at dinner and we had a delightful conversation.  I’ll say this:  The man really enjoys his cake!
+
+know mr fairsley
+Fairsley, that old soul!  And body!  Tell me again, are you sure he didn’t simply fall over and pass of old age? \nEither way, I was seated next to him at dinner and we had a delightful conversation.  I’ll say this:  The man really enjoys his cake!
+
+know mr. fairsley
+Fairsley, that old soul!  And body!  Tell me again, are you sure he didn’t simply fall over and pass of old age? \nEither way, I was seated next to him at dinner and we had a delightful conversation.  I’ll say this:  The man really enjoys his cake!
+
+see mrs. fairsley
+Mae Fairsley does not deserve the things Ben puts her through.  The woman can do no wrong, she works at a hospital 99 hours a day and volunteers at charity events all over the place.  She’s basically Ben’s public face.
+
+know mrs. fairsley
+Mae Fairsley does not deserve the things Ben puts her through.  The woman can do no wrong, she works at a hospital 99 hours a day and volunteers at charity events all over the place.  She’s basically Ben’s public face.
+
+know mae
+Mae Fairsley does not deserve the things Ben puts her through.  The woman can do no wrong, she works at a hospital 99 hours a day and volunteers at charity events all over the place.  She’s basically Ben’s public face.
+
+see mae
+Mae Fairsley does not deserve the things Ben puts her through.  The woman can do no wrong, she works at a hospital 99 hours a day and volunteers at charity events all over the place.  She’s basically Ben’s public face.
+
+see mrs fairsley
+Mae Fairsley does not deserve the things Ben puts her through.  The woman can do no wrong, she works at a hospital 99 hours a day and volunteers at charity events all over the place.  She’s basically Ben’s public face.
+
+know mrs fairsley
+Mae Fairsley does not deserve the things Ben puts her through.  The woman can do no wrong, she works at a hospital 99 hours a day and volunteers at charity events all over the place.  She’s basically Ben’s public face.
+
+you last see victim
+I saw them last night, of course.  He hosted the party!  I was seated between him and Mr. Tobi Park at dinner, and took my leave shortly thereafter.
+
+when see victim
+I saw them last night, of course.  He hosted the party!  I was seated between him and Mr. Tobi Park at dinner, and took my leave shortly thereafter.
+
+your free time
+Why, I am so glad you asked!\nI enjoy long walks on the beach, reading by the fireplace at night, and treating myself. \nI’ve been on the cover of three magazines!  You type of people still read magazines, right? \nDid you know you can ride elephants?  I’ve ridden elephants, you know. \nI’ve had several publishers reach out to me to ask about my life for a book deal. \nOh!  I golfed with the president once.  No, not that one.  The one you like, dear. \nI own several yachts, and a Lamborghini.  Cliché, I know.  The thing looks like a toddler’s racecar bed. \nI’ve never driven the things myself, though.  Driving is so… Pedestrian. \nOh, but I could go on for hours.  What else did you want to ask me about?
+
+who did this
+You said it was poison, right?  I may have overheard that detail from your officers here.  Well, I can only assume the baker is at fault here.
+
+who murderer
+You said it was poison, right?  I may have overheard that detail from your officers here.  Well, I can only assume the baker is at fault here.
+
+yacht
+Haha, oh yes!  That was a fun one.  Or maybe you made a good point there!  I wasn’t really listening, honestly.
+
+car
+Haha, oh yes!  That was a fun one.  Or maybe you made a good point there!  I wasn’t really listening, honestly.
+
+lambo
+Haha, oh yes!  That was a fun one.  Or maybe you made a good point there!  I wasn’t really listening, honestly.
+
+president
+Haha, oh yes!  That was a fun one.  Or maybe you made a good point there!  I wasn’t really listening, honestly.
+
+i dont care
+Oh, please.  I know people enjoy hearing about the lifestyles of the rich and famous.
+
+i don't care
+Oh, please.  I know people enjoy hearing about the lifestyles of the rich and famous.
+
+you along with victim
+We got along swimmingly!  As swimmingly as business partners can get along, anyway.  Which is to say, I strongly dislike the man.  I was here to convince his main competitor Alex Hughes to join me in a business partnership.  ‘All’s fair,’ as they say!
+
+

@@ -139,6 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Evelyn.cpp" />
+    <ClCompile Include="James.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Toby.cpp" />
   </ItemGroup>
@@ -146,6 +148,8 @@
     <ClInclude Include="Header.h" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="evelyn.txt" />
+    <Text Include="james.txt" />
     <Text Include="Toby.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

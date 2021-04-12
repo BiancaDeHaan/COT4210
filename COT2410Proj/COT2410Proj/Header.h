@@ -22,7 +22,7 @@ typedef struct question {
 class Character {
 private:
     vector<string> aliases; //contains all the different names they can be called, maybe first, last, first + last
-    string description;
+    string introduction;
     vector< question_t> responses;
     string defaultResponse;
     string name;
@@ -30,6 +30,8 @@ private:
 
 
 public:
+    void setIntroduction(string introduction) { this->introduction = introduction; }
+    string getIntroduction() { return introduction; }
     Character() {}
     Character(vector<string> aliases, string name) {
         this->aliases = aliases;
@@ -60,6 +62,9 @@ private:
     vector<Character> charactersInGame;
 public:
     void loadToby();
+    void loadEvelyn();
+    void loadJames();
+    void loadAlex();
     void addCharacter(Character character) { charactersInGame.push_back(character); }
     Character* findCharacter(string name);
     TextAdventure() {}

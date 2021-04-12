@@ -1,0 +1,121 @@
+hello
+Wow, they really did a number on this place last night.
+
+hi
+Wow, they really did a number on this place last night.
+
+who are you 
+Evelyn Garcia, the maid of the deceased. I come here every Saturday to clean, but I mostly stay out of the way of Mr. Fairsley and keep to myself. 
+
+what were you doing last night
+I was at home, watching TV with my boyfriend.  I left before the party.
+
+you time of murder
+I was at home, watching TV with my boyfriend.  I left before the party.
+
+where were you
+I was at home, watching TV with my boyfriend.  I left before the party.
+
+why weren't you at party
+Mr. Sinclair didn’t want me there during the party, only before.
+
+why werent you at party
+Mr. Sinclair didn’t want me there during the party, only before.
+
+not at party you
+Mr. Sinclair didn’t want me there during the party, only before.
+
+you nervous
+It’s too stuffy in this room, and I’m being accused of murder. The heat is bad for my complexion. If someone in this room really is a cold-blooded murderer, I’d look at whoever’s sweating the least.
+
+what brings you here
+I come here for my job and for my pay- and nothing else. I have no personal relations for the deceased. I simply clean the house.
+
+why are you here
+I come here for my job and for my pay- and nothing else. I have no personal relations for the deceased. I simply clean the house.
+
+your job
+I thought it was obvious, I’m a maid. I clean.
+
+how did you know deceased 
+I’ve worked here a few years now as a maid.  I used to work all week, but nowadays I clean his home and do other things on Saturdays, and only Saturdays. 
+
+how did you know ben
+I’ve worked here a few years now as a maid.  I used to work all week, but nowadays I clean his home and do other things on Saturdays, and only Saturdays. 
+
+what do you do for a living
+I clean for a living. What? Is that too beneath you? It’s honest work, it pays well, and I am treated fairly, for the most part. I stay out of the way, and I never cause any problems around the neighborhood.
+
+your living
+I clean for a living. What? Is that too beneath you? It’s honest work, it pays well, and I am treated fairly, for the most part. I stay out of the way, and I never cause any problems around the neighborhood.
+
+your occupation
+I clean for a living. What? Is that too beneath you? It’s honest work, it pays well, and I am treated fairly, for the most part. I stay out of the way, and I never cause any problems around the neighborhood.
+
+where is your home
+I live on the other side of the town, in the less wealthy parts of town.  I live by myself.
+
+where you live
+I live on the other side of the town, in the less wealthy parts of town.  I live by myself.
+
+what do you think of victim
+We had our disagreements, but Mr. Fairsley was a strong-willed, hard-working man.  I feel sorry for his poor wife in all of this.
+
+did you get along victim
+We had our disagreements, but Mr. Fairsley was a strong-willed, hard-working man.  I feel sorry for his poor wife in all of this.
+
+thought on victim
+We had our disagreements, but Mr. Fairsley was a strong-willed, hard-working man.  I feel sorry for his poor wife in all of this.
+
+thoughts on victim
+We had our disagreements, but Mr. Fairsley was a strong-willed, hard-working man.  I feel sorry for his poor wife in all of this.
+
+disagreements
+Let’s say we’ve grown apart over the years.  It’s foolish, but I stick around mostly for Mrs. Fairsley nowadays.
+
+your free time
+I enjoy watching television, I have no family and no one around me, so I interest myself in the lives of others on drama television shows. What’s with that look? As if you’re doing anything more meaningful.
+
+what think of alex
+He and Mr. Fairsley are really old friends.  The man is a bit of a doormat, though.  I saw him on my way out when I left yesterday.
+
+what think of hughes
+He and Mr. Fairsley are really old friends.  The man is a bit of a doormat, though.  I saw him on my way out when I left yesterday.
+
+opinion of alex
+He and Mr. Fairsley are really old friends.  The man is a bit of a doormat, though.  I saw him on my way out when I left yesterday.
+
+opinion of hughes
+He and Mr. Fairsley are really old friends.  The man is a bit of a doormat, though.  I saw him on my way out when I left yesterday.
+
+what think of tobi
+The Mars guy?  I’m surprised his name is even on the radar, here.  He landed a robot on Mars by himself, how does that even relate to pharma?
+
+what think of park
+The Mars guy?  I’m surprised his name is even on the radar, here.  He landed a robot on Mars by himself, how does that even relate to pharma?
+
+opinion of tobi
+The Mars guy?  I’m surprised his name is even on the radar, here.  He landed a robot on Mars by himself, how does that even relate to pharma?
+
+opinion of park
+The Mars guy?  I’m surprised his name is even on the radar, here.  He landed a robot on Mars by himself, how does that even relate to pharma?
+
+what think of james
+Ah, son extraordinaire.  We’ve never met, but I’ve seen him on TV.  He seems like a turd.
+
+what think of sinclair
+Ah, son extraordinaire.  We’ve never met, but I’ve seen him on TV.  He seems like a turd.
+
+opinion of james
+Ah, son extraordinaire.  We’ve never met, but I’ve seen him on TV.  He seems like a turd.
+
+opinion of sinclair
+Ah, son extraordinaire.  We’ve never met, but I’ve seen him on TV.  He seems like a turd.
+
+what think of mae
+Mae Fairsley is a saint, she was probably delivering a baby at the hospital or giving a puppy CPR last night.
+
+opinion of mae
+Mae Fairsley is a saint, she was probably delivering a baby at the hospital or giving a puppy CPR last night.
+
+

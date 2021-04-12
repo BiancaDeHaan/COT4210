@@ -21,6 +21,12 @@
     <ClCompile Include="Toby.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Evelyn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="James.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">
@@ -29,6 +35,12 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="Toby.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="evelyn.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="james.txt">
       <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
