@@ -1,15 +1,16 @@
 #include "Header.h"
 
-const string introduction = "(There was a party at Fairsley manor last night.  \nThe owner of a large pharmaceutical company, Ben Fairsley, was found dead this morning by his wife.  He’d been poisoned. \n"
-"Investigators at the scene found that based on the type of poison used, the time of the poisoning could only have been last night, during the party.\n "
-"Mrs.Fairsley was called into work last night at the start of the party to perform emergency surgery.\nShe was in the operating room all night, with cameras on herand fellow doctors surrounding her at all hours to confirm her alibi.\n"
+const string introduction = "(There was a party at Fairsley manor last night.  \nThe owner of a large pharmaceutical company, Ben Fairsley, was found dead this morning by his wife.  \nHe’d been poisoned."
+"Investigators at the scene found that based on the type of poison used, \nthe time of the poisoning could only have been last night, during the party.\n "
+"Mrs. Fairsley was called into work last night at the start of the party to perform emergency surgery.\nShe was in the operating room all night, with cameras on herand fellow doctors surrounding her at all hours to confirm her alibi.\n"
 "The manor itself, normally seen in pristine condition, is in shambles.\nEverything from"
-"the party was left exactly where it was when everyone leftand the host went to sleep.\n"
+" the party was left exactly where it was when everyone leftand the host went to sleep.\n"
 "Your job is to figure out who, among the suspects in this room, committed this crime.\n"
 "Good luck!\n";
 const string description = "There are four suspects in the room; Evelyn Garcia, Tobi Park, Alex Hughes, and James Sinclair. \n";
 const string instructions = "\nUse question words to begin talking to the suspects, for example, ask Alex. \n"
-"Afterwards, you can ask them questions....\n";
+"Afterwards, when talking to a suspect, you can ask them questions, such as where they were at the time of the murder.\n"
+"You can also inspect items around the room.";
 vector<string> questionWords = { "talk to", "talk", "ask", "question", "interrogate" };
 
 
