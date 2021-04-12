@@ -1,0 +1,239 @@
+who are you
+Hello, there.  A pleasure to meet you, I am Alex Hughes, an old friend of the owner of this manor.  And you are?
+
+hello
+Great to meet you, inspector! I hope I can help you find who did this.
+
+hi
+Great to meet you, inspector! I hope I can help you find who did this.
+
+hey
+Great to meet you, inspector! I hope I can help you find who did this.
+
+you last night
+Why, being perfectly honest I can hardly remember. I was the first one here, and the first one to reach the drinks!  I don’t get out often, but when I do I make sure to take advantage of the chance.  I do remember having some amazing conversations, however.
+
+where were you
+Why, being perfectly honest I can hardly remember. I was the first one here, and the first one to reach the drinks!  I don’t get out often, but when I do I make sure to take advantage of the chance.  I do remember having some amazing conversations, however.
+
+when the victim 
+Why, being perfectly honest I can hardly remember. I was the first one here, and the first one to reach the drinks!  I don’t get out often, but when I do I make sure to take advantage of the chance.  I do remember having some amazing conversations, however.
+
+talk to evelyn
+Well, on the way in I spoke briefly with Evelyn.  She was in a hurry to leave, though.  She seemed upset!
+
+talk to maid
+Well, on the way in I spoke briefly with Evelyn.  She was in a hurry to leave, though.  She seemed upset!
+
+talk to garcia
+Well, on the way in I spoke briefly with Evelyn.  She was in a hurry to leave, though.  She seemed upset!
+
+talk tobi
+I had a conversation with Tobi about his Mars robot project.  Very interesting guy!  Smart as a tack.  He’s going to do great things!
+
+talk park
+I had a conversation with Tobi about his Mars robot project.  Very interesting guy!  Smart as a tack.  He’s going to do great things!
+
+meet tobi
+I had a conversation with Tobi about his Mars robot project.  Very interesting guy!  Smart as a tack.  He’s going to do great things!
+
+meet park
+I had a conversation with Tobi about his Mars robot project.  Very interesting guy!  Smart as a tack.  He’s going to do great things!
+
+see mae
+Nope, I didn’t see Mae once last night.  Sweetest woman alive, though.  Ben got lucky with that one!
+
+meet mae
+Nope, I didn’t see Mae once last night.  Sweetest woman alive, though.  Ben got lucky with that one!
+
+meet mrs. fairsley
+Nope, I didn’t see Mae once last night.  Sweetest woman alive, though.  Ben got lucky with that one!
+
+see mrs. fairsley
+Nope, I didn’t see Mae once last night.  Sweetest woman alive, though.  Ben got lucky with that one!
+
+meet mrs fairsley
+Nope, I didn’t see Mae once last night.  Sweetest woman alive, though.  Ben got lucky with that one!
+
+see mrs fairsley
+Nope, I didn’t see Mae once last night.  Sweetest woman alive, though.  Ben got lucky with that one!
+
+see ben
+I chatted with Ben for a while after everyone had left.  Maybe it was just the drinks, but he was definitely having an off night.
+
+meet ben
+I chatted with Ben for a while after everyone had left.  Maybe it was just the drinks, but he was definitely having an off night.
+
+see mr. fairsley
+I chatted with Ben for a while after everyone had left.  Maybe it was just the drinks, but he was definitely having an off night.
+
+meet mr. fairsley
+I chatted with Ben for a while after everyone had left.  Maybe it was just the drinks, but he was definitely having an off night.
+
+meet mr fairsley
+I chatted with Ben for a while after everyone had left.  Maybe it was just the drinks, but he was definitely having an off night.
+
+see mr fairsley
+I chatted with Ben for a while after everyone had left.  Maybe it was just the drinks, but he was definitely having an off night.
+
+see james
+Oh, I talked with James about some business.
+
+see sinclair
+Oh, I talked with James about some business.
+
+talk sinclair
+Oh, I talked with James about some business.
+
+talk james
+Oh, I talked with James about some business.
+
+meet james
+Oh, I talked with James about some business.
+
+meet sinclair
+Oh, I talked with James about some business.
+
+you nervous
+It’s not every day you’re a part of a murder mystery, my friend.  Who wouldn’t be nervous?  What if I’m next?  What if you’re the murderer? It’s hard to be relaxed in a situation like this.  Aren’t you nervous?  Someone here is a murderer!
+
+im not nervous
+Nerves of steel!  I guess that comes with your job, though
+
+i'm not nervous
+Nerves of steel!  I guess that comes with your job, though
+
+i'm nervous
+That’s good!  Looks like you’re human too!
+
+im nervous
+That’s good!  Looks like you’re human too!”
+
+what brings you here
+Old Ben and I go way back. We’ve known each other since middle school, and we’ve had some sort of competition between us running almost every day since then!  \nHe’s always been one step ahead, though.  He’s been an inch taller than me our whole lives!  Never bothered me much, though.\nWe haven’t caught up in a good while, so this get-together was the perfect chance for a reunion.
+
+why are you here
+Old Ben and I go way back. We’ve known each other since middle school, and we’ve had some sort of competition between us running almost every day since then!  \nHe’s always been one step ahead, though.  He’s been an inch taller than me our whole lives!  Never bothered me much, though.\nWe haven’t caught up in a good while, so this get-together was the perfect chance for a reunion.
+
+you know deceased
+Old Ben and I go way back. We’ve known each other since middle school, and we’ve had some sort of competition between us running almost every day since then!  \nHe’s always been one step ahead, though.  He’s been an inch taller than me our whole lives!  Never bothered me much, though.\nWe haven’t caught up in a good while, so this get-together was the perfect chance for a reunion.
+
+you know ben
+Old Ben and I go way back. We’ve known each other since middle school, and we’ve had some sort of competition between us running almost every day since then!  \nHe’s always been one step ahead, though.  He’s been an inch taller than me our whole lives!  Never bothered me much, though.\nWe haven’t caught up in a good while, so this get-together was the perfect chance for a reunion.
+
+competition
+Ah yep, we’ve always competed over every little thing.  Girls, cars, boats, houses.  I’ve been at his heels for as long as I can remember.  I like to think it’s kept me humble, despite my successes.  I think he might’ve taken it a bit further than he even wanted to at dessert last night, though.
+
+dessert
+Well, this is kind of embarrassing, but I guess it’s probably important.  I baked cakes for everyone on the guest list for the party last night.  I’m a bigger guy, and I love cake, so I made my cake a bit bigger.  When they were passed around for dessert, I think Ben got a bit upset that mine was bigger.  He scarfed his dessert down in a heartbeat, and then he took poor Mae’s cake and ate that too!  He must’ve been having a really rough day, I haven’t seen him act like that since high school.  He did apologize to me later, but it was really rude to his wife
+
+later
+I stayed for a while after dessert to catch up with Ben over drinks.  He said he’d just been stressed out at work lately, nothing seemed out of the ordinary.  My driver took me home maybe an hour or two after everyone else left.
+
+reunion
+I mean, It’s been a year since all of this COVID stuff started up.  I haven’t seen anyone in a while!
+
+your job
+I own Hughe Boats, one of the top Yacht manufacturers out there.  Doesn’t turn quite as much of a profit as Fairsley Pharma, but I’m you could say I’m not exactly struggling for cash!
+
+your occupation
+I own Hughe Boats, one of the top Yacht manufacturers out there.  Doesn’t turn quite as much of a profit as Fairsley Pharma, but I’m you could say I’m not exactly struggling for cash!
+
+your living
+I own Hughe Boats, one of the top Yacht manufacturers out there.  Doesn’t turn quite as much of a profit as Fairsley Pharma, but I’m you could say I’m not exactly struggling for cash!
+
+your freetime
+Mostly crabbing!  I also like to read classic novels and practice small things, like baking. I’ve been told my baking is top-notch!  Not much else to do during this lockdown, so I’ve had practice.
+
+your free time
+Mostly crabbing!  I also like to read classic novels and practice small things, like baking. I’ve been told my baking is top-notch!  Not much else to do during this lockdown, so I’ve had practice.
+
+your leisure
+Mostly crabbing!  I also like to read classic novels and practice small things, like baking. I’ve been told my baking is top-notch!  Not much else to do during this lockdown, so I’ve had practice.
+
+what do you like to do
+Mostly crabbing!  I also like to read classic novels and practice small things, like baking. I’ve been told my baking is top-notch!  Not much else to do during this lockdown, so I’ve had practice.
+
+where were you
+I was at the party!  I stayed around for a little while after dessert to catch up with Ben some more over some drinks.  After all the damage he did to those cakes, I figure he needed someone to talk to.
+
+cake
+Well, this is kind of embarrassing, but I guess it’s probably important.  I baked cakes for everyone on the guest list for the party last night.  I’m a bigger guy, and I love cake, so I made my cake a bit bigger.  When they were passed around for dessert, I think Ben got a bit upset that mine was bigger.  He scarfed his dessert down in a heartbeat, and then he took poor Mae’s cake and ate that too!  He must’ve been having a really rough day, I haven’t seen him act like that since high school.  He did apologize to me later, but it was really rude to his wife.
+
+cakes
+Well, this is kind of embarrassing, but I guess it’s probably important.  I baked cakes for everyone on the guest list for the party last night.  I’m a bigger guy, and I love cake, so I made my cake a bit bigger.  When they were passed around for dessert, I think Ben got a bit upset that mine was bigger.  He scarfed his dessert down in a heartbeat, and then he took poor Mae’s cake and ate that too!  He must’ve been having a really rough day, I haven’t seen him act like that since high school.  He did apologize to me later, but it was really rude to his wife.
+
+did you do it
+An old man like me has nothing to gain from doing something like that. Besides, Ben was a friend.  I’ve lived my life, had my joy, why not give everyone else a chance to live theirs as well? Besides, doing something like that would risk whatever time I have left!
+
+did you kill
+An old man like me has nothing to gain from doing something like that. Besides, Ben was a friend.  I’ve lived my life, had my joy, why not give everyone else a chance to live theirs as well? Besides, doing something like that would risk whatever time I have left!
+
+are you the murderer
+An old man like me has nothing to gain from doing something like that. Besides, Ben was a friend.  I’ve lived my life, had my joy, why not give everyone else a chance to live theirs as well? Besides, doing something like that would risk whatever time I have left!
+
+you think of evelyn
+Sweet lady, as long as you’re on her good side!  She’s been Ben’s maid for years now, she does a great job.
+
+you think of garcia
+Sweet lady, as long as you’re on her good side!  She’s been Ben’s maid for years now, she does a great job.
+
+you think of maid
+Sweet lady, as long as you’re on her good side!  She’s been Ben’s maid for years now, she does a great job.
+
+opinion of evelyn
+Sweet lady, as long as you’re on her good side!  She’s been Ben’s maid for years now, she does a great job.
+
+opinion of garcia
+Sweet lady, as long as you’re on her good side!  She’s been Ben’s maid for years now, she does a great job.
+
+opinion of maid
+Sweet lady, as long as you’re on her good side!  She’s been Ben’s maid for years now, she does a great job.
+
+think of james
+Very verbose fellow!  Talking to him is like listening to someone who’s had a week to prepare his responses.
+
+opinion of james
+Very verbose fellow!  Talking to him is like listening to someone who’s had a week to prepare his responses.
+
+think of sinclair
+Very verbose fellow!  Talking to him is like listening to someone who’s had a week to prepare his responses.
+
+think of james
+Very verbose fellow!  Talking to him is like listening to someone who’s had a week to prepare his responses.
+
+think of mae
+Sweetest woman alive.  Ben got lucky with that one!  Can’t believe he ate her dessert instead of saving it last night, though.
+
+opinion of mae
+Sweetest woman alive.  Ben got lucky with that one!  Can’t believe he ate her dessert instead of saving it last night, though.
+
+think of mrs. fairsley
+Sweetest woman alive.  Ben got lucky with that one!  Can’t believe he ate her dessert instead of saving it last night, though.
+
+think of mrs fairsley
+Sweetest woman alive.  Ben got lucky with that one!  Can’t believe he ate her dessert instead of saving it last night, though.
+
+opinion of mrs fairsley
+Sweetest woman alive.  Ben got lucky with that one!  Can’t believe he ate her dessert instead of saving it last night, though.
+
+opinion of mrs. fairsley
+Sweetest woman alive.  Ben got lucky with that one!  Can’t believe he ate her dessert instead of saving it last night, though.
+
+what think of ben
+Old Ben and I go way back. We’ve known each other since middle school, and we’ve had some sort of competition between us running almost every day since then!  \nHe’s always been one step ahead, though.  He’s been an inch taller than me our whole lives!  Never bothered me much, though.\nWe haven’t caught up in a good while, so this get-together was the perfect chance for a reunion.
+
+what think of mr. fairsley
+Old Ben and I go way back. We’ve known each other since middle school, and we’ve had some sort of competition between us running almost every day since then!  \nHe’s always been one step ahead, though.  He’s been an inch taller than me our whole lives!  Never bothered me much, though.\nWe haven’t caught up in a good while, so this get-together was the perfect chance for a reunion.
+
+what think of mr fairsley
+Old Ben and I go way back. We’ve known each other since middle school, and we’ve had some sort of competition between us running almost every day since then!  \nHe’s always been one step ahead, though.  He’s been an inch taller than me our whole lives!  Never bothered me much, though.\nWe haven’t caught up in a good while, so this get-together was the perfect chance for a reunion.
+
+opinion of fairsley
+Old Ben and I go way back. We’ve known each other since middle school, and we’ve had some sort of competition between us running almost every day since then!  \nHe’s always been one step ahead, though.  He’s been an inch taller than me our whole lives!  Never bothered me much, though.\nWe haven’t caught up in a good while, so this get-together was the perfect chance for a reunion.
+
+opinion of mr. fairsley
+Old Ben and I go way back. We’ve known each other since middle school, and we’ve had some sort of competition between us running almost every day since then!  \nHe’s always been one step ahead, though.  He’s been an inch taller than me our whole lives!  Never bothered me much, though.\nWe haven’t caught up in a good while, so this get-together was the perfect chance for a reunion.
+
+
+

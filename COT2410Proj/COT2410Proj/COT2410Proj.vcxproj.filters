@@ -27,6 +27,9 @@
     <ClCompile Include="James.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Alex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">
@@ -41,6 +44,9 @@
       <Filter>Source Files</Filter>
     </Text>
     <Text Include="james.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="alex.txt">
       <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>

@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Alex.cpp" />
     <ClCompile Include="Evelyn.cpp" />
     <ClCompile Include="James.cpp" />
     <ClCompile Include="Source.cpp" />
@@ -148,6 +149,7 @@
     <ClInclude Include="Header.h" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="alex.txt" />
     <Text Include="evelyn.txt" />
     <Text Include="james.txt" />
     <Text Include="Toby.txt" />

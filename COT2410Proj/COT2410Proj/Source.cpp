@@ -145,6 +145,9 @@ int main() {
 
     TextAdventure textAdventure = TextAdventure();
     textAdventure.loadToby();
+    textAdventure.loadAlex();
+    textAdventure.loadEvelyn();
+    textAdventure.loadJames();
 
 
     //Input loop

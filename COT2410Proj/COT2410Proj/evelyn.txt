@@ -58,7 +58,7 @@ I live on the other side of the town, in the less wealthy parts of town.  I live
 where you live
 I live on the other side of the town, in the less wealthy parts of town.  I live by myself.
 
-what do you think of victim
+what you think victim
 We had our disagreements, but Mr. Fairsley was a strong-willed, hard-working man.  I feel sorry for his poor wife in all of this.
 
 did you get along victim
@@ -118,4 +118,8 @@ Mae Fairsley is a saint, she was probably delivering a baby at the hospital or g
 opinion of mae
 Mae Fairsley is a saint, she was probably delivering a baby at the hospital or giving a puppy CPR last night.
 
+what you think ben
+We had our disagreements, but Mr. Fairsley was a strong-willed, hard-working man.  I feel sorry for his poor wife in all of this.
 
+opinion of ben
+We had our disagreements, but Mr. Fairsley was a strong-willed, hard-working man.  I feel sorry for his poor wife in all of this.

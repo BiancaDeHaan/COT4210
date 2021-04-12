@@ -1,22 +1,22 @@
 #include "Header.h"
 
-void TextAdventure::loadJames() {
+void TextAdventure::loadAlex() {
     //This is a file dedicated to creating the character of Toby and adding him to the charactersList
 
     //Other names for Tobi
-    vector<string> jamesAliases = { "james", "sinclair", "james sinclair", "james" };
-    Character jamesSinclair(jamesAliases, "James Sinclair");
+    vector<string> alexAliases = { "alex", "hughes", "alex hughes" };
+    Character alexHughes(alexAliases, "Alex Hughes");
 
     //Default response
-    jamesSinclair.setDefaultResponse("You’re going to have to repeat that for me, darling.  I didn’t catch a word of it.");
-    jamesSinclair.setIntroduction("You're speaking to James Sinclair, remember the name.");
+    alexHughes.setDefaultResponse("I’m sorry?  You’re gonna have to speak up, friend.  I didn’t understand what you said there.");
+    alexHughes.setIntroduction("Hello, inspector.  A pleasure to meet you, I am Alex Hughes, an old friend of the owner of this manor.  And you are?");
     //Adding all of the different variants of questions
     fstream newfile;
     vector<string> questionTokens;
     string answer = "";
     question_t question;
 
-    newfile.open("james.txt", ios::in);
+    newfile.open("alex.txt", ios::in);
     if (newfile.is_open()) {
         string fileInput = "";
         while (getline(newfile, fileInput)) {
@@ -44,7 +44,7 @@ void TextAdventure::loadJames() {
 
             question.tokens = questionTokens;
             question.answer = answer;
-            jamesSinclair.addResponse(question);
+            alexHughes.addResponse(question);
 
             //this is for visually to separate tokens/answers in the file
             getline(newfile, fileInput); //should be a blank space, ignore
@@ -54,5 +54,5 @@ void TextAdventure::loadJames() {
     }
 
 
-    addCharacter(jamesSinclair);
+    addCharacter(alexHughes);
 }
