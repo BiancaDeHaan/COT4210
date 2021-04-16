@@ -7,7 +7,11 @@ const string introduction = "(There was a party at Fairsley manor last night.  \
 " the party was left exactly where it was when everyone leftand the host went to sleep.\n"
 "Your job is to figure out who, among the suspects in this room, committed this crime.\n"
 "Good luck!\n";
-const string description = "There are four suspects in the room; Evelyn Garcia, Tobi Park, Alex Hughes, and James Sinclair. \n";
+const string description = "There are four suspects in the room; \n"
+"Evelyn Garcia- the maid\n"
+"Tobi Park- the inventor\n"
+"Alex Hughes- the neighbor\n"
+"James Sinclair- the socialite \n";
 const string instructions = "\nUse question words to begin talking to the suspects, for example, ask Alex. \n"
 "Afterwards, when talking to a suspect, you can ask them questions, such as where they were at the time of the murder.\n"
 "You can also inspect items around the room.\n";
@@ -128,7 +132,7 @@ bool talkTo(vector<string> tokens) {
 bool examine(vector<string> tokens) {
     //logic for determining if the command was to examine an item
     for (int i = 0; i < questionWords.size(); i++) {
-        if (contains(tokens, questionWords[i]))
+        if (contains(tokens, examineWords[i]))
             return true;
     }
     return false;

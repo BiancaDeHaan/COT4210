@@ -63,6 +63,7 @@ private:
 class TextAdventure {
 private:
     vector<Character> charactersInGame;
+    vector<Item> itemsInGame;
 public:
     void loadToby();
     void loadEvelyn();
