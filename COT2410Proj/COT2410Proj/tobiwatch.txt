@@ -1,0 +1,121 @@
+who are you
+<You recognize this man from the news.  Tobi Park, famous inventor.  He recently sent a robot to Mars by himself.> Oh, you know who I am, I know that look.  I’m Tobi Park!  I did the Mars thing.  You definitely recognize me.  Right?
+
+yo!
+yo.
+
+hi
+yo yo
+
+nervous
+Ah, sorry.  I’m nervous.  My private life is out in the open, I’ve never talked with anyone about this before, and here I am being interrogated about it.
+
+notepad
+Oh, this old thing?  There’s nothing too important in here, just math equations and invention doodles.  I showed it to James Sinclair last night!  You know, the guy who’s on TV all the time.  He loved it, I suppose great minds think alike.
+
+write 
+Oh, this old thing?  There’s nothing too important in here, just math equations and invention doodles.  I showed it to James Sinclair last night!  You know, the guy who’s on TV all the time.  He loved it, I suppose great minds think alike.
+
+see notepad
+Oh, there’s really nothing in here.  But sure, go nuts. <He hands you the notepad.  Flipping through it, you see several pages of math equations, as well as sketches of machines that have yet to be built.  Going through recent pages, most of his notes have turned to rambling about ‘clearing obstacles from the path,’ this particular phrase shows up often.>
+
+phrase clearing path
+I’ve spent months trying to clear these obstacles, but I only wound up knocking more trees down…  I’m an engineer, though.  I’ll figure something out.
+
+clearing path
+I’ve spent months trying to clear these obstacles, but I only wound up knocking more trees down…  I’m an engineer, though.  I’ll figure something out.
+
+what brings here
+I was the guest of honor!  I caught Ben and Mrs. Fairsley at an airport a few weeks back.  I didn’t care what she was saying, but Mrs. Fairsley mentioned a party, so I got myself invited!  One step closer to a clear path.
+
+contract
+Of course.  Space tech knowledge doesn’t translate one-to-one to medical tech knowledge, but I’m not about to decline that sort of invitation.
+
+how did you know deceased person
+I was, of course, intimately familiar with Ben Fairsley.  We met a few months back, and we’ve been meeting more and more ever since.  We were supposed to get married someday.
+
+how know ben
+I was, of course, intimately familiar with Ben Fairsley.  We met a few months back, and we’ve been meeting more and more ever since.  We were supposed to get married someday.
+
+how know victim
+I was, of course, intimately familiar with Ben Fairsley.  We met a few months back, and we’ve been meeting more and more ever since.  We were supposed to get married someday.
+
+married
+He was supposed to have left his wife by now, but there were still so many things keeping us apart.
+
+what was evelyn
+She’s the one who found my watch, right?  Never heard of her.
+
+did you see evelyn
+She’s the one who found my watch, right?  Never heard of her.
+
+what think evelyn
+She’s the one who found my watch, right?  Never heard of her.
+
+what was hughes
+There’s a man who doesn’t know how to keep his mouth shut.  If Alex Hughes wasn’t there to egg him on, maybe Ben would still be alive.
+
+see hughes 
+There’s a man who doesn’t know how to keep his mouth shut.  If Alex Hughes wasn’t there to egg him on, maybe Ben would still be alive.
+
+think of hughes
+There’s a man who doesn’t know how to keep his mouth shut.  If Alex Hughes wasn’t there to egg him on, maybe Ben would still be alive.
+
+what was sinclair
+Sinclair is on TV so often I forget he’s a real person sometimes.  Speaking with him in person was like watching a TV show, he just went on for like an hour about things he’s done.  I felt dumber for having listened to him for so long, but at least I didn’t have to say much.
+
+did you see sinclair
+Sinclair is on TV so often I forget he’s a real person sometimes.  Speaking with him in person was like watching a TV show, he just went on for like an hour about things he’s done.  I felt dumber for having listened to him for so long, but at least I didn’t have to say much.
+
+what think of sinclair
+Sinclair is on TV so often I forget he’s a real person sometimes.  Speaking with him in person was like watching a TV show, he just went on for like an hour about things he’s done.  I felt dumber for having listened to him for so long, but at least I didn’t have to say much.
+
+what think of ben
+People seem to think Mr. Fairsley was a pretty rough-around-the-edges type of guy, but I don’t get it.  They need to see where he’s coming from.  He’s worked hard all his life, he’s earned the right to have the occasional bad day.  From what I saw, he spent most of the night schmoozing and drinking.
+
+what was ben
+People seem to think Mr. Fairsley was a pretty rough-around-the-edges type of guy, but I don’t get it.  They need to see where he’s coming from.  He’s worked hard all his life, he’s earned the right to have the occasional bad day.  From what I saw, he spent most of the night schmoozing and drinking.
+
+mae
+The wrong Fairsley died, if you ask me.
+
+your job
+Recently, you may have heard that I built a robot and launched it to Mars using my own funds.  Right now, I’ve started talks with several space agencies to figure out which one I’ll be helping to design and build a Mars base.  We’ve still got to work out about a million kinks, so I’ve got time to decide.
+
+what do for living
+Recently, you may have heard that I built a robot and launched it to Mars using my own funds.  Right now, I’ve started talks with several space agencies to figure out which one I’ll be helping to design and build a Mars base.  We’ve still got to work out about a million kinks, so I’ve got time to decide.
+
+your occupation
+Recently, you may have heard that I built a robot and launched it to Mars using my own funds.  Right now, I’ve started talks with several space agencies to figure out which one I’ll be helping to design and build a Mars base.  We’ve still got to work out about a million kinks, so I’ve got time to decide.
+
+where were you last night
+Ah, well, let me check. <Tobi pulls a notepad from his pocket, flips back a couple of pages, reads for a moment.> Last night, I went to the party, and left shortly after dessert.  I felt like I’d fulfilled my obligation to attend.
+
+what you last night
+Ah, well, let me check. <Tobi pulls a notepad from his pocket, flips back a couple of pages, reads for a moment.> Last night, I went to the party, and left shortly after dessert.  I felt like I’d fulfilled my obligation to attend.
+
+dessert
+I don’t know, maybe Hughes poisoned the cakes or something, I got a bad feeling about it.  When Ben reached for his wife’s cake, I saw it all flashing before my eyes.  I couldn’t shout at him to stop eating, it wouldn’t have made any sense.
+
+when see victim
+Right as I left the party.  He waved me and Sinclair goodbye when we left.
+
+free time
+I happen to enjoy parties, as it were!  I also enjoy getting together with other engineers and brainstorming.  <Tobi pulls a small notepad from his pocket> I write a lot of things down! I am a tinkerer. I am a thinker. I like to think about stuff.
+
+did get along with victim
+We were in love, yes.
+
+did get along with ben
+We were in love, yes.
+
+watch
+So this was in the nightstand?  I can’t believe I could’ve been careless enough to lose this here, of all places.  Me and Mr. Fairsley met at a bar a few months ago.  It was love at first sight, we both knew instantly that we were perfect for each other.  There were just so many things in the way.  He said there was no way we could be together for real, but we kept seeing each other in secret.  Someday, though, we were supposed to go public.
+
+photo
+Sinclair, you witch.  I knew he was giving me a weird look all night!
+
+
+
+
+

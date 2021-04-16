@@ -89,16 +89,16 @@ opinion of hughes
 He and Mr. Fairsley are really old friends.  The man is a bit of a doormat, though.  I saw him on my way out when I left yesterday.
 
 what think of tobi
-The Mars guy?  I’m surprised his name is even on the radar, here.  He landed a robot on Mars by himself, how does that even relate to pharma?
+Hang on.  T. Park, that’s definitely the guy, then.  I didn’t want to know his name, man.
 
 what think of park
-The Mars guy?  I’m surprised his name is even on the radar, here.  He landed a robot on Mars by himself, how does that even relate to pharma?
+Hang on.  T. Park, that’s definitely the guy, then.  I didn’t want to know his name, man.
 
 opinion of tobi
-The Mars guy?  I’m surprised his name is even on the radar, here.  He landed a robot on Mars by himself, how does that even relate to pharma?
+Hang on.  T. Park, that’s definitely the guy, then.  I didn’t want to know his name, man.
 
 opinion of park
-The Mars guy?  I’m surprised his name is even on the radar, here.  He landed a robot on Mars by himself, how does that even relate to pharma?
+Hang on.  T. Park, that’s definitely the guy, then.  I didn’t want to know his name, man.
 
 what think of james
 Ah, son extraordinaire.  We’ve never met, but I’ve seen him on TV.  He seems like a turd.
@@ -118,20 +118,29 @@ Mae Fairsley is a saint, she was probably delivering a baby at the hospital or g
 opinion of mae
 Mae Fairsley is a saint, she was probably delivering a baby at the hospital or giving a puppy CPR last night.
 
-what you think ben
-We had our disagreements, but Mr. Fairsley was a strong-willed, hard-working man.  I feel sorry for his poor wife in all of this.
+think ben
+He was a bastard.  That’s about it.
 
 opinion of ben
-We had our disagreements, but Mr. Fairsley was a strong-willed, hard-working man.  I feel sorry for his poor wife in all of this.
+He was a bastard.  That’s about it.
+
+think of victim
+He was a bastard.  That’s about it.
+
+who did this
+Now that I think of it, that watch had someone’s initials on it.  Was there anyone at the party with initials like that?
 
 watch
-I don’t really want to look at this stuff.  Poor Mrs. Fairsley.
+Ugh, alright.  Fairsley’s a son of a bitch.  Was.  \nHe treated his wife like trash, and I’ve cleaned up after his extra-marital exploits more than once.  \nHe’d been getting more and more irritable lately, so I started bringing my two weeks’ notice in my bags a few weeks back.  \nYesterday, I gave him one last chance.  He wanted me to come in early to clean up before the party.  I scrubbed the toilets, polished the trophies, the usual. \nThen I found his “friend’s” watch in the bedsheets.  I normally mind my own business with clients, but this was a different case.  \nIf Mrs. Fairsley found that herself it would’ve nearly killed her.  \nI threw it into the nightstand and marched to his office to put in my two weeks’ notice.  \nHe tore it in half, screaming about how I know too much about his personal life to quit, and how if I’ll “never work in this town again” if I quit now.    \nOriginally, I was supposed to come back last night after the party and clean up, but I was furious. \nI left before the party started and never planned on coming back.  \nThen, you guys called me.  Honestly, I’m mad I didn’t get to do him in myself
 
 notice
-I don’t really want to look at this stuff.  Poor Mrs. Fairsley.
+Ugh, alright.  Fairsley’s a son of a bitch.  Was.  \nHe treated his wife like trash, and I’ve cleaned up after his extra-marital exploits more than once.  \nHe’d been getting more and more irritable lately, so I started bringing my two weeks’ notice in my bags a few weeks back.  \nYesterday, I gave him one last chance.  He wanted me to come in early to clean up before the party.  I scrubbed the toilets, polished the trophies, the usual. \nThen I found his “friend’s” watch in the bedsheets.  I normally mind my own business with clients, but this was a different case.  \nIf Mrs. Fairsley found that herself it would’ve nearly killed her.  \nI threw it into the nightstand and marched to his office to put in my two weeks’ notice.  \nHe tore it in half, screaming about how I know too much about his personal life to quit, and how if I’ll “never work in this town again” if I quit now.    \nOriginally, I was supposed to come back last night after the party and clean up, but I was furious. \nI left before the party started and never planned on coming back.  \nThen, you guys called me.  Honestly, I’m mad I didn’t get to do him in myself
 
 photo
-I don’t really want to look at this stuff.  Poor Mrs. Fairsley.
+Ugh, alright.  Fairsley’s a son of a bitch.  Was.  \nHe treated his wife like trash, and I’ve cleaned up after his extra-marital exploits more than once.  \nHe’d been getting more and more irritable lately, so I started bringing my two weeks’ notice in my bags a few weeks back.  \nYesterday, I gave him one last chance.  He wanted me to come in early to clean up before the party.  I scrubbed the toilets, polished the trophies, the usual. \nThen I found his “friend’s” watch in the bedsheets.  I normally mind my own business with clients, but this was a different case.  \nIf Mrs. Fairsley found that herself it would’ve nearly killed her.  \nI threw it into the nightstand and marched to his office to put in my two weeks’ notice.  \nHe tore it in half, screaming about how I know too much about his personal life to quit, and how if I’ll “never work in this town again” if I quit now.    \nOriginally, I was supposed to come back last night after the party and clean up, but I was furious. \nI left before the party started and never planned on coming back.  \nThen, you guys called me.  Honestly, I’m mad I didn’t get to do him in myself
 
-who did it
-I'm not sure who commited this crime, but you better find out inspector.
+friend
+If he was able to take that secret to the grave, I figured I should leave it there.  It’s not like I ever saw this “friend” in person or knew their name, and Mrs. Fairsley doesn’t deserve the stress.
+
+why did you quit
+You found my letter of resignation? I hate it here. That's why I quit.

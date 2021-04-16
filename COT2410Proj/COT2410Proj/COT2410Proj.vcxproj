@@ -152,7 +152,9 @@
   <ItemGroup>
     <Text Include="alex.txt" />
     <Text Include="evelyn.txt" />
+    <Text Include="evelynwatch.txt" />
     <Text Include="james.txt" />
+    <Text Include="tobiwatch.txt" />
     <Text Include="Toby.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

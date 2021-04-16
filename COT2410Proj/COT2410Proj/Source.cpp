@@ -20,22 +20,34 @@ const string instructions = "(You’re in the main room of the Fairsley Manor.  It
 "Tobi Park, the inventor\n"
 "James Sinclair, the socialite\n"
 "When you’ve made your decision as to who did it, simply type who you chose to “arrest.” \n"
-"Or you may explore the manor to find clues.On the far side of the room is a wall of[Trophies], and there are entrances to the[Office], [Bedroom], and [Dining Hall].\n";
+"Or you may explore the manor to find clues.On the far side of the room is a wall of[Trophies], and there are entrances to the[Office], and [Bedroom].\n";
 vector<string> questionWords = { "talk to", "talk", "ask", "question", "interrogate" };
-vector<string> examineWords = { "examine", "look", "look", "inspect", "go to", "go", "move" };
+vector<string> examineWords = { "examine", "look", "look", "inspect", "go to", "go", "move", "visit" };
 vector<string> accuseWords = { "accuse", "arrest" };
 
 
 //Implemented methods
 
 //checks to see if this question is in their questions, if not default response is returned
-string Character::askQuestion(vector<string> question) {
-    //loops through all responses
-    for (int i = 0; i < responses.size(); i++) {
-        //iterates through all the responses/questions
-        if (isQuestion(responses[i], question)) {
-            string response = responses[i].answer;
-            return response;
+string Character::askQuestion(vector<string> question, bool isWatchDiscovered) {
+    if (isWatchDiscovered && afterWatchResponses.size() > 0) {
+        //loops through all CHANGED responses
+        for (int i = 0; i < afterWatchResponses.size(); i++) {
+            //iterates through all the responses/questions
+            if (isQuestion(afterWatchResponses[i], question)) {
+                string response = afterWatchResponses[i].answer;
+                return response;
+            }
+        }
+    }
+    else {
+        //loops through all responses
+        for (int i = 0; i < responses.size(); i++) {
+            //iterates through all the responses/questions
+            if (isQuestion(responses[i], question)) {
+                string response = responses[i].answer;
+                return response;
+            }
         }
     }
 
@@ -250,7 +262,7 @@ int main() {
 
 
                 vector<string> secondUserTokens = tokenizeString(secondUserInput);
-                cout << talkingTo.askQuestion(secondUserTokens) << endl;
+                cout << talkingTo.askQuestion(secondUserTokens, textAdventure.getIsWatchDiscovered()) << endl;
 
                 cout << endl;
 
@@ -269,6 +281,9 @@ int main() {
             else {
                 if(item->getToAdd())
                     textAdventure.addDiscoveredItem(*item);
+
+                if (item->getName().compare("watch") == 0)
+                    textAdventure.discoveredWatch();
                 //print out the current item you've discovered
                 cout << "You're looking at the " << item->getName() << endl;
                 cout << endl << item->getDescription() << endl;
@@ -284,7 +299,9 @@ int main() {
             }
 
             cout << suspect->getArrestResponse() << endl;
+            textAdventure.setPlayerAccused(true);
             break;
+            
 
 
         }
@@ -294,10 +311,12 @@ int main() {
         }
 
 
-        //accuse 
 
     }
 
-    //TODO, add "are you sure you want to exit without accusing/failure test
+    //The player exited without suspecting anyone
+    if(!textAdventure.getPlayerAccused())
+        cout << "The inspector decided to leave without accusing anyone. Unfortunately, as you were the only inspector in the area, the case remains unsolved, and the murder of Ben Fairsley will never be solved.";
+
 
 }

@@ -57,7 +57,43 @@ void TextAdventure::loadEvelyn() {
         }
         newfile.close(); //close the file object.
     }
+    //only evelyn and tobi have added responses when the watch is discovered
+    newfile.open("evelynwatch.txt", ios::in);
+    if (newfile.is_open()) {
+        string fileInput = "";
+        while (getline(newfile, fileInput)) {
 
+            //parse the line 
+            string word = "";
+            vector<string> questionTokens;
+            for (auto x : fileInput)
+            {
+                if (x == ' ')
+                {
+                    questionTokens.push_back(word);
+                    word = "";
+                }
+                else {
+                    word = word + x;
+                }
+            }
+            //Get the last word
+            questionTokens.push_back(word);
+
+            //next line is the answer
+            getline(newfile, fileInput);
+            answer = fileInput;
+
+            question.tokens = questionTokens;
+            question.answer = answer;
+            evelynGarcia.addWatchResponse(question);
+
+            //this is for visually to separate tokens/answers in the file
+            getline(newfile, fileInput); //should be a blank space, ignore
+
+        }
+        newfile.close(); //close the file object.
+    }
 
     addCharacter(evelynGarcia);
 }

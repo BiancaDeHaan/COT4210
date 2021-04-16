@@ -52,5 +52,11 @@
     <Text Include="alex.txt">
       <Filter>Source Files</Filter>
     </Text>
+    <Text Include="evelynwatch.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="tobiwatch.txt">
+      <Filter>Source Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

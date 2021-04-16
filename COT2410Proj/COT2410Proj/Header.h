@@ -26,6 +26,7 @@ private:
     string name;
     bool isQuestion(question_t question, vector<string> tokens);
     string arrestResponse;
+    vector< question_t> afterWatchResponses;
 
 
 public:
@@ -37,9 +38,11 @@ public:
     Character(vector<string> aliases, string name) {
         this->aliases = aliases;
         this->name = name;
+        
     }
-    string askQuestion(vector<string> question);
+    string askQuestion(vector<string> question, bool isWatchDiscovered);
     void addResponse(question_t question) { responses.push_back(question); }
+    void addWatchResponse(question_t question) { afterWatchResponses.push_back(question); }
     void setDefaultResponse(string str) { defaultResponse = str; }
     vector<string> getAliases() { return aliases; }
     string getName() {
@@ -73,10 +76,20 @@ private:
     vector<Character> charactersInGame;
     vector<Item> itemsInGame;
     vector<Item> itemsDiscovered;
+    bool isWatchDiscovered;
+    bool playerAccused;
 public:
     void addDiscoveredItem(Item item) {
         itemsDiscovered.push_back(item);
     }
+    void discoveredWatch() {
+        isWatchDiscovered = true;
+    }
+    bool getIsWatchDiscovered() {
+        return isWatchDiscovered;
+    }
+    void setPlayerAccused(bool b) { playerAccused = b; }
+    bool getPlayerAccused() { return playerAccused; }
     void loadToby();
     void loadEvelyn();
     void loadJames();
@@ -85,7 +98,9 @@ public:
     void addCharacter(Character character) { charactersInGame.push_back(character); }
     Item* findItem(string name);
     Character* findCharacter(string name);
-    TextAdventure() {}
+    TextAdventure() {
+        isWatchDiscovered = false;
+    }
     vector<Item> getDiscoveredItems() {
         return itemsDiscovered;
     }
