@@ -34,4 +34,12 @@ void TextAdventure::loadItems() {
 	itemsInGame.push_back(bedstand);
 	itemsInGame.push_back(watch);
 
+
+	//Other type of item
+	Item office = Item("office", "You enter the office of Ben Fairsley.  \n"
+		"It’s very lavish, he has a small [bookshelf] of leather-bound books, and the whole room smells of rich mahogany due to a rather ornate [desk] in the middle of the room.)", false);
+	Item bedroom = Item("bedroom", "You enter the bedroom of Mr. and Mrs. Fairsley.   \nThe bed is, of course, unmade, as Ben Fairsley was found there this morning.  \nNext to the bed is a [Nightstand].)", false);
+	itemsInGame.push_back(office);
+	itemsInGame.push_back(bedroom);
+
 }

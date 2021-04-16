@@ -256,7 +256,7 @@ int main() {
 
             }
 
-        }
+        } //examine: double serves as going to rooms
         else if (examine(userTokens)) {
             Item* item;
             if (userTokens.size() > 1)
@@ -267,7 +267,8 @@ int main() {
             if (item == nullptr)
                 cout << "\nWhat are you trying to examine, inspector? Please be more specific.\n";
             else {
-                textAdventure.addDiscoveredItem(*item);
+                if(item->getToAdd())
+                    textAdventure.addDiscoveredItem(*item);
                 //print out the current item you've discovered
                 cout << "You're looking at the " << item->getName() << endl;
                 cout << endl << item->getDescription() << endl;

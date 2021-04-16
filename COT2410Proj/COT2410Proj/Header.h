@@ -52,6 +52,7 @@ class Item {
 public:
     string getName() { return name; }
     string getDescription() { return description; }
+    bool getToAdd() { return add; }
     Item(string name, string description, bool toAdd) {
         this->name = name;
         this->description = description;
