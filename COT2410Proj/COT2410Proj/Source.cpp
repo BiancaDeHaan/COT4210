@@ -12,11 +12,17 @@ const string description = "There are four suspects in the room; \n"
 "Tobi Park- the inventor\n"
 "Alex Hughes- the neighbor\n"
 "James Sinclair- the socialite \n";
-const string instructions = "\nUse question words to begin talking to the suspects, for example, ask Alex. \n"
-"Afterwards, when talking to a suspect, you can ask them questions, such as where they were at the time of the murder.\n"
-"You can also inspect items around the room.\n";
+const string instructions = "(You’re in the main room of the Fairsley Manor.  It’s spacious, as you’d expect.  \n"
+"An impromptu interrogation office has been set up, with each of your suspects sitting in different corners of the room being questioned by police.  \n"
+"You may go and talk to them:\n"	
+"Evelyn Garcia, the maid\n"
+"Alex Hughes, the neighbor / businessman\n"
+"Tobi Park, the inventor\n"
+"James Sinclair, the socialite\n"
+"When you’ve made your decision as to who did it, simply type who you chose to “arrest.” \n"
+"Or you may explore the manor to find clues.On the far side of the room is a wall of[Trophies], and there are entrances to the[Office], [Bedroom], and [Dining Hall].\n";
 vector<string> questionWords = { "talk to", "talk", "ask", "question", "interrogate" };
-vector<string> examineWords = { "examine", "look at", "look", "inspect" };
+vector<string> examineWords = { "examine", "look", "look", "inspect", "go to", "go", "move" };
 vector<string> accuseWords = { "accuse", "arrest" };
 
 
@@ -66,6 +72,15 @@ Character* TextAdventure::findCharacter(string name) {
             if (name.compare(aliases[n]) == 0)
                 return &charactersInGame[i];
         }
+    }
+    return nullptr;
+}
+
+Item* TextAdventure::findItem(string name) {
+    //Given a string for a name, return item being discovered
+    for (int i = 0; i < itemsInGame.size(); i++) {
+        if (name.compare(itemsInGame[i].getName()) == 0)
+            return &itemsInGame[i];
     }
     return nullptr;
 }
@@ -131,7 +146,7 @@ bool talkTo(vector<string> tokens) {
 
 bool examine(vector<string> tokens) {
     //logic for determining if the command was to examine an item
-    for (int i = 0; i < questionWords.size(); i++) {
+    for (int i = 0; i < examineWords.size(); i++) {
         if (contains(tokens, examineWords[i]))
             return true;
     }
@@ -141,7 +156,7 @@ bool examine(vector<string> tokens) {
 
 bool accuse(vector<string> tokens) {
     //logic for determining if the command was to accuse someone
-    for (int i = 0; i < questionWords.size(); i++) {
+    for (int i = 0; i < accuseWords.size(); i++) {
         if (contains(tokens, accuseWords[i]))
             return true;
     }
@@ -163,7 +178,7 @@ int main() {
     textAdventure.loadAlex();
     textAdventure.loadEvelyn();
     textAdventure.loadJames();
-
+    textAdventure.loadItems();
     //TODO
     //Add examine items
     //Add accuse functionality
@@ -172,9 +187,17 @@ int main() {
     string userInput = "";
     while (userInput.compare("exit") != 0) {
         cout << instructions << endl;
+        //also print discovered objects
+        cout << "Discovered objects:" << endl;
+        for (int i = 0; i < textAdventure.getDiscoveredItems().size(); i++) {
+            Item it = textAdventure.getDiscoveredItems()[i];
+            cout << it.getName() << ": " << endl << it.getDescription() << endl << endl;
+        }
         getline(cin, userInput);
 
         vector<string> userTokens = tokenizeString(userInput);
+        
+
 
         //"talk to x"
         if (talkTo(userTokens)) {
@@ -203,7 +226,6 @@ int main() {
             else {
                 //additional logic
                 if (ch != nullptr) {
-                    cout << "temp";
                     talkingTo = *ch;
                 }
                 else {
@@ -236,7 +258,20 @@ int main() {
 
         }
         else if (examine(userTokens)) {
-            cout << "You are inspecting something" << endl;
+            Item* item;
+            if (userTokens.size() > 1)
+                item = textAdventure.findItem(userTokens[1]);
+            else
+                item = nullptr;
+
+            if (item == nullptr)
+                cout << "\nWhat are you trying to examine, inspector? Please be more specific.\n";
+            else {
+                textAdventure.addDiscoveredItem(*item);
+                //print out the current item you've discovered
+                cout << "You're looking at the " << item->getName() << endl;
+                cout << endl << item->getDescription() << endl;
+            }
         }
         else if (accuse(userTokens)) {
             Character* suspect = nullptr;
@@ -259,8 +294,6 @@ int main() {
 
 
         //accuse 
-
-
 
     }
 

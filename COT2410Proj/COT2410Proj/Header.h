@@ -8,8 +8,6 @@
 #include <fstream>
 using namespace std;
 
-
-
 //This represents being asked a question
 //Given the tokens that would trigger the response and the answer
 typedef struct question {
@@ -52,9 +50,18 @@ public:
 
 class Item {
 public:
+    string getName() { return name; }
+    string getDescription() { return description; }
+    Item(string name, string description, bool toAdd) {
+        this->name = name;
+        this->description = description;
+        this->add = toAdd;
+    }
+private:
     string name;
     string description;
-private:
+    bool add;
+
 };
 
 //Class of the text adventure
@@ -64,12 +71,21 @@ class TextAdventure {
 private:
     vector<Character> charactersInGame;
     vector<Item> itemsInGame;
+    vector<Item> itemsDiscovered;
 public:
+    void addDiscoveredItem(Item item) {
+        itemsDiscovered.push_back(item);
+    }
     void loadToby();
     void loadEvelyn();
     void loadJames();
     void loadAlex();
+    void loadItems();
     void addCharacter(Character character) { charactersInGame.push_back(character); }
+    Item* findItem(string name);
     Character* findCharacter(string name);
     TextAdventure() {}
+    vector<Item> getDiscoveredItems() {
+        return itemsDiscovered;
+    }
 };

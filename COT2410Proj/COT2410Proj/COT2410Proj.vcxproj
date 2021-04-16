@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="Alex.cpp" />
     <ClCompile Include="Evelyn.cpp" />
+    <ClCompile Include="items.cpp" />
     <ClCompile Include="James.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Toby.cpp" />
